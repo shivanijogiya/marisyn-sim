@@ -5,7 +5,7 @@ MARISYN is an event-driven autonomous deep-sea exploration system designed to op
 
 ---
 
-## 🚀 The Problem
+##  The Problem
 Deep-ocean exploration systems often fail due to:
 - Pressures exceeding **1000+ atm**
 - Turbidity currents and sudden vertical displacements
