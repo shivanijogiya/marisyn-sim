@@ -1,4 +1,4 @@
-# MARISYN – Autonomous Deep-Sea Exploration System 🌊
+# MARISYN – Autonomous Deep-Sea Exploration System 
 **Event-Driven Resilient Architecture for Extreme Ocean Environments**
 
 MARISYN is an event-driven autonomous deep-sea exploration system designed to operate reliably under **extreme hydrostatic pressure, sudden underwater disturbances, and long-term material fatigue**. The platform introduces a **mother-shell + intelligent pod architecture** that activates sensing and deployment only when meaningful biological, chemical, or pressure anomalies are detected, enabling energy-efficient and failure-resilient ocean missions.
