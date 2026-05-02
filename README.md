@@ -1,4 +1,4 @@
-# MARISYN – Autonomous Hadal-Zone Exploration Simulator
+# MARISYN: Autonomous Hadal-Zone Exploration Simulator
 
 A scientific simulation demonstrating autonomous deep-ocean pod systems operating in the hadal zone under extreme pressure (>1000 atm). Built for the GeoRift ideathon.
 
